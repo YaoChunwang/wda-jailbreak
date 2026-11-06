@@ -1,5 +1,7 @@
 # wda-jailbreak — Full WebDriverAgent UI Automation on Jailbroken iOS (tested on iPhone SE 1 / iOS 15.8.8)
 
+English | [简体中文](README.zh-CN.md)
+
 Driving a **jailbroken** iPhone through the real Apple UI-testing stack:
 WebDriverAgent + XCTestCore + XCUIAutomation + testmanagerd, with live XCUI
 element trees over HTTP. No simulator, no Xcode, no developer signing.
